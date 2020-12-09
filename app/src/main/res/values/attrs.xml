@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="SnowMan">
+        <attr name="snowManColor" format="color"/>
+        <attr name="noseColor" format="color"/>
+        <attr name="buttonsColor" format="color"/>
+        <attr name="mouthColor" format="color"/>
+        <attr name="handsColor" format="color"/>
+        <attr name="shadowColor" format="color"/>
+    </declare-styleable>
+</resources>
+
